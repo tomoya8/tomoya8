@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoya8&theme=flat&show_icons=true&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoya8&theme=flat&count_private=true)](https://github-profile-summary-cards.vercel.app/demo.html)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoya8&theme=default) 
