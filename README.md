@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=emacs,vim,linux,latex,ruby,matlab,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=emacs,vim,linux,latex,ruby,matlab)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomoya8&theme=flat&column=5&count_private=true&margin-h=10&margin-w=10&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
