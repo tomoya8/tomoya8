@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=vim,ruby)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tomoya8&theme=flat&column=5&count_private=true&margin-h=10&margin-w=10&rank=-B,-C,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomoya8&theme=flat&column=5&count_private=true&margin-h=10&margin-w=10&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoya8&theme=flat&show_icons=true&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
