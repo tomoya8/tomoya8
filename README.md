@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=vim,ruby)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomoya8&theme=dracula&column=5&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
